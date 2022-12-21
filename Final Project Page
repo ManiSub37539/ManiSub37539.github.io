@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+	<title>Final Project page</title>
+	<link rel="stylesheet" href="mystyle.css">
+    </head>
+    <body>
+
+	<marquee><h1>Welcome to <em>Mani's</em> Final Project Page!</h1></marquee>  
+
+	<br>
+	
+	
+	<table>
+		<tr>
+			<td><a href="https://manisub37539.github.io/AboutMe.html"><img src="About.png"></a></td>
+			<td><a href="https://manisub37539.github.io/java.html"><img src="Javascripts.png"></a></td>
+			<td><a href="https://manisub37539.github.io"><img src="Home.png"></a></td>
+			<td><a href="https://manisub37539.github.io/Apps.html"><img src="Apps.png"></a></td>
+			
+		</tr>
+	</table>
+	<br>
+	<img src="mybanner1.jpg">
+	    <h2><a href="https://www.khanacademy.org/computer-programming/duck-game-deluxe/6625628735979520">Duck Game Deluxe</a></h2><script src="https://www.khanacademy.org/computer-programming/duck-game-deluxe/6625628735979520/embed.js?editor=yes&buttons=yes&author=yes&embed=yes">
+      <h2><a href="https://www.youtube.com/watch?v=gumnr4WsJsQ">Me executing the code</a></h2><script src="https://www.youtube.com/watch?v=gumnr4WsJsQ">
+    </body>
+</html>
